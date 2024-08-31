@@ -8,13 +8,13 @@
 
 This project leverages the following technologies:
 
-- **[NAME](WEBSITE):** 1 Line on why you chose this tech and what it is used for.
+- **[NAME](WEBSITE):** One Line on why you chose this tech and what it is used for.
 
 ## Key Features
 
-- **Feature 1:** Brief description of Feature 1 and its benefits.
-- **Feature 2:** Brief description of Feature 2 and its benefits.
-- **Feature 3:** Brief description of Feature 3 and its benefits.
+- **Feature 1:** One Line description of Feature 1.
+- **Feature 2:** One Line description of Feature 2.
+- **Feature 3:** One Line description of Feature 3.
 
 ## Local Setup Instructions (Write for both windows and macos)
 
