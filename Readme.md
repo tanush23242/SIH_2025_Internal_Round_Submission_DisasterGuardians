@@ -1,4 +1,4 @@
-# PS Chosen for Internal Hackathon (File Name from the drive folder)
+# PS Chosen SIH Hackathon
 
 This README provides an overview of the project, including team details, relevant links, tasks completed, tech stack, key features, and steps to run the project locally.
 
@@ -19,8 +19,7 @@ This README provides an overview of the project, including team details, relevan
 
 ## Project Links
 
-- **Internal Presentation:** [Internal Presentation](URL TO PPT UPLOADED TO GITHUB)
-- **Final SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
+- **SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
 - **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)
 - **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)
 - **Source Code:** [GitHub Repository](GITHUB LINK TO THE REPO)
