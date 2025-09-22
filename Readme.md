@@ -4,23 +4,23 @@ This README provides an overview of the project, including team details, relevan
 
 ## Team Details
 
-**Team Name:** TEAM_NAME_HERE
+**Team Name:** Disaster Guardians 
 
-**Team Leader:** [@USERNAME](https://github.com/USERNAME)
+**Team Leader:** Tanush
 
 **Team Members:**
 
-- **MEMBER_1** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_2** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_3** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_4** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_5** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_6** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
+- **MEMBER_1** - 2023UME4160 - Aditya Sharma 
+- **MEMBER_2** - 2023UME4172 - Arpit Khandelwal 
+- **MEMBER_3** - 2023UME4178 - Tanush
+- **MEMBER_4** - 2023UME4183 - Ankit Kumar
+- **MEMBER_5** - 2023UME4202 - Akshit Bhalla
+- **MEMBER_6** - 2023UME7258 - Vanshika Jain
 
 ## Project Links
 
-- **SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
-- **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)
-- **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)
-- **Source Code:** [GitHub Repository](GITHUB LINK TO THE REPO)
-- **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)
+- **SIH Presentation:** https://github.com/tanush23242/SIH_2025_Internal_Round_Submission_DisasterGuardians/commit/e23321282371d79128da90f697746010896b78c2#diff-3d5ecdeb9e14a8169383518b0185cb61024e6336cd46a4114d862e2ecfc1d499
+- **Video Demonstration:** https://screenapp.io/app/#/shared/szSXurt3ZN
+- **Live Deployment:** NA
+- **Source Code:** https://github.com/tanush23242/SIH_2025_Internal_Round_Submission_DisasterGuardians
+- **Additional Resources:** NA
